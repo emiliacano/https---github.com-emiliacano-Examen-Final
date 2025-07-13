@@ -1,0 +1,27 @@
+Zona: Belisario
+PM2.5: 16.40, SO2: 3.60, NO2: 25.00, CO: 3.00
+
+Zona: Carapungo
+PM2.5: 13.20, SO2: 4.30, NO2: 20.00, CO: 1.70
+
+Zona: Centro
+PM2.5: 16.10, SO2: 3.60, NO2: 28.50, CO: 3.20
+
+Zona: Cotocollao
+PM2.5: 15.00, SO2: 3.40, NO2: 24.70, CO: 1.70
+
+Zona: El Camal
+PM2.5: 20.00, SO2: 5.30, NO2: 24.60, CO: 2.50
+
+Zona: Guamaní
+PM2.5: 17.80, SO2: 2.90, NO2: 19.00, CO: 2.00
+
+Zona: Los Chillos
+PM2.5: 15.30, SO2: 7.20, NO2: 18.50, CO: 1.60
+
+Zona: San Antonio
+PM2.5: 14.20, SO2: 3.10, NO2: 13.50, CO: 1.70
+
+Zona: Tumbaco
+PM2.5: 13.00, SO2: 3.30, NO2: 0.00, CO: 0.00
+
